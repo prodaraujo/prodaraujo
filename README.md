@@ -2,8 +2,6 @@
 
 ### 💻 *Desenvolvedor Web | Node.js e .NET Core*
 
-### 🎓 Estudante de **Engenharia de Software**, apaixonado por tecnologia e focado no desenvolvimento de **APIs RESTful**, **backend com Node.js e C#**, e integração com **SQLite**.  
-
 ---
 
 <div>
