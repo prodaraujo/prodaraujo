@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 # 👋 Olá, eu sou o Paulo Araújo  
 
@@ -9,11 +9,12 @@ Busco criar aplicações limpas e funcionais — da API ao front-end — e segui
 ---
 
 ### 📈 **Atividade e Linguagens**
-<div align="center">
+<div>
 
 <a href="https://github.com/PauloAraujo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloAraujo&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
 </a>
+
 <a href="https://github.com/PauloAraujo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloAraujo&layout=compact&theme=tokyonight&hide_border=true" />
 </a>
@@ -23,11 +24,10 @@ Busco criar aplicações limpas e funcionais — da API ao front-end — e segui
 ---
 
 ### 🚀 **Minhas principais tecnologias**
-<div align="center">
+<div>
   
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -52,7 +52,7 @@ Busco criar aplicações limpas e funcionais — da API ao front-end — e segui
 ---
 
 ### 🔥 **Mais estatísticas**
-<div align="center">
+<div>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=PauloAraujo&theme=tokyonight&hide_border=true&locale=pt_BR)
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PauloAraujo&theme=tokyonight)
@@ -62,7 +62,7 @@ Busco criar aplicações limpas e funcionais — da API ao front-end — e segui
 ---
 
 ### 📫 **Como me encontrar**
-<div align="center">
+<div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pauloaraujo)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prodaraujo)
