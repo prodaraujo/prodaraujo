@@ -8,9 +8,11 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou **Desenvolvedor Full Stack** com experiência na criação e evolução de aplicações web, atuando tanto no desenvolvimento de interfaces responsivas quanto na construção de soluções no backend e integração com bancos de dados e APIs. Trabalho com **JavaScript, TypeScript, React, PHP, SQL** e tecnologias modernas do ecossistema web, sempre buscando aplicar boas práticas, organização e código sustentável.
+Sou Desenvolvedor Full Stack Júnior, com experiência atual no desenvolvimento e evolução de sistemas internos corporativos, atuando desde o levantamento de necessidades e implementação até testes e melhorias das soluções. Na IAS Concept, desenvolvo aplicações utilizando PHP e JavaScript, com persistência de dados em SQLite, criando sistemas voltados à gestão de atividades, gestão de férias e automação de processos internos.
 
-Tenho interesse em atuar como **Desenvolvedor Full Stack Júnior**, contribuindo em projetos reais e colaborativos, enquanto amplio minha experiência técnica e evoluo continuamente na construção de soluções completas, desde a interface até a lógica de negócio e persistência de dados.
+Também possuo experiência com TypeScript, React, SQL e APIs, atuando tanto no desenvolvimento de interfaces responsivas quanto na construção de regras de negócio, integração entre sistemas e manipulação de dados. Busco aplicar boas práticas de desenvolvimento, organização e código sustentável, evoluindo continuamente na construção de soluções completas, do frontend ao backend e à persistência de dados.
+
+Busco oportunidades como Desenvolvedor Full Stack Pleno, contribuindo em projetos reais e colaborativos e ampliando minha experiência técnica na construção de sistemas escaláveis e eficientes.
 
 
 ---
@@ -28,7 +30,7 @@ Tenho interesse em atuar como **Desenvolvedor Full Stack Júnior**, contribuindo
 
 ## 🚀 Projetos em Destaque
 
-⚡ [**Escala aí**~](https://github.com/prodaraujo/escala-ai)  
+⚡ [**Escala aí**](https://github.com/prodaraujo/escala-ai)  
 Sistema inteligente de gerenciamento e distribuição de escalas, desenvolvido com React e TypeScript, utilizando um motor de distribuição baseado em IA para automatizar a alocação conforme regras e critérios definidos, com persistência de dados no Supabase.
 
 🌦️ [**Previsão do Tempo**](https://prodaraujo.github.io/js/previsao_tempo/index.html)  
