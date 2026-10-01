@@ -17,6 +17,7 @@ Tenho interesse em atuar como **Frontend Developer Júnior**, evoluindo tecnicam
 ## ⚙️ Tecnologias
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
@@ -26,16 +27,15 @@ Tenho interesse em atuar como **Frontend Developer Júnior**, evoluindo tecnicam
 
 ## 🚀 Projetos em Destaque
 
-🌦️ [**Previsão do Tempo**](https://github.com/prodaraujo/js/tree/main/previsao_tempo)  
+⚡ [**Escala aí**~](https://github.com/prodaraujo/escala-ai)  
+Sistema inteligente de gerenciamento e distribuição de escalas, desenvolvido com React e TypeScript, utilizando um motor de distribuição baseado em IA para automatizar a alocação conforme regras e critérios definidos, com persistência de dados no Supabase.
+
+🌦️ [**Previsão do Tempo**](https://prodaraujo.github.io/js/previsao_tempo/index.html)  
 Aplicação frontend com consumo de API externa, manipulação de estado e interface responsiva.
 
-📝 **CRUD Frontend (em React)**  
+📝 [**CRUD Frontend**](https://prodaraujo.github.io/js/CRUD/index.html#add)  
 Aplicação frontend com formulários, validações e layout responsivo.  
-*(em desenvolvimento)*
 
-🌐 **Landing Page Responsiva**  
-Projeto focado em HTML semântico, CSS moderno e mobile-first.  
-*(em desenvolvimento)*
 
 ---
 
