@@ -8,11 +8,11 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou *Desenvolvedor Full Stack Júnior*, com experiência atual no desenvolvimento e evolução de sistemas internos corporativos, atuando desde o levantamento de necessidades e implementação até testes e melhorias das soluções. Na IAS Concept, desenvolvo aplicações utilizando *PHP e JavaScript*, com persistência de dados em *SQLite*, criando sistemas voltados à gestão de atividades, gestão de férias e automação de processos internos.
+Sou ***Desenvolvedor Full Stack Júnior***, com experiência atual no desenvolvimento e evolução de sistemas internos corporativos, atuando desde o levantamento de necessidades e implementação até testes e melhorias das soluções. Na IAS Concept, desenvolvo aplicações utilizando *PHP e JavaScript*, com persistência de dados em *SQLite*, criando sistemas voltados à *gestão de atividades, gestão de férias e automação de processos internos*.
 
-Também possuo experiência com *TypeScript, React, SQL e APIs*, atuando tanto no desenvolvimento de interfaces responsivas quanto na construção de regras de negócio, integração entre sistemas e manipulação de dados. Busco aplicar boas práticas de desenvolvimento, organização e código sustentável, evoluindo continuamente na construção de soluções completas, do frontend ao backend e à persistência de dados.
+Também possuo experiência com **TypeScript, React, SQL e APIs**, atuando tanto no desenvolvimento de interfaces responsivas quanto na construção de regras de negócio, integração entre sistemas e manipulação de dados. Busco aplicar boas práticas de desenvolvimento, organização e código sustentável, evoluindo continuamente na construção de soluções completas, do frontend ao backend e à persistência de dados.
 
-Busco oportunidades como Desenvolvedor Full Stack Pleno, contribuindo em projetos reais e colaborativos e ampliando minha experiência técnica na construção de sistemas escaláveis e eficientes.
+Busco oportunidades como ***Desenvolvedor Full Stack Pleno***, contribuindo em projetos reais e colaborativos e ampliando minha experiência técnica na construção de sistemas escaláveis e eficientes.
 
 
 ---
