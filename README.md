@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o **Paulo Araújo**
 
-### 💻 *Frontend Developer | JavaScript • HTML • CSS • React*
+### 💻 *Fullstack Developer | JavaScript • PHP • HTML • CSS • React*
 
 ---
 
