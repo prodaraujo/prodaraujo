@@ -8,9 +8,10 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou Desenvolvedor Frontend focado na criação de interfaces web responsivas, funcionais e bem estruturadas, utilizando JavaScript moderno e boas práticas de desenvolvimento.
+Sou **Desenvolvedor Full Stack** com experiência na criação e evolução de aplicações web, atuando tanto no desenvolvimento de interfaces responsivas quanto na construção de soluções no backend e integração com bancos de dados e APIs. Trabalho com **JavaScript, TypeScript, React, PHP, SQL** e tecnologias modernas do ecossistema web, sempre buscando aplicar boas práticas, organização e código sustentável.
 
-Tenho interesse em atuar como **Frontend Developer Júnior**, evoluindo tecnicamente em projetos reais e colaborativos.
+Tenho interesse em atuar como **Desenvolvedor Full Stack Júnior**, contribuindo em projetos reais e colaborativos, enquanto amplio minha experiência técnica e evoluo continuamente na construção de soluções completas, desde a interface até a lógica de negócio e persistência de dados.
+
 
 ---
 
